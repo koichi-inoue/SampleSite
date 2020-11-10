@@ -1,2 +1,0 @@
-# SampleSite
-HTML + CSS サンプル
